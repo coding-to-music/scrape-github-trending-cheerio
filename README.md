@@ -1,3 +1,29 @@
+# scrape-github-trending-cheerio
+
+# 🚀 Tutorial for web scraping / crawling of GitHub with Node.js and Cheerio 🚀
+
+https://github.com/coding-to-music/scrape-github-trending-cheerio
+
+From / By https://github.com/transitive-bullshit/scrape-github-trending
+
+## Environment variables:
+
+```java
+
+```
+
+## GitHub
+
+```java
+git init
+git add .
+git remote remove origin
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:coding-to-music/scrape-github-trending-cheerio.git
+git push -u origin main
+```
+
 # scrape-github-trending
 
 > [Tutorial](https://hackernoon.com/scraping-the-web-with-node-js-f7da67d2f734) for web scraping / crawling with Node.js.

@@ -1,5 +1,5 @@
 {
-  "name": "scrape-github-trending",
+  "name": "scrape-github-trending-cheerio",
   "version": "1.0.0",
   "description": "Tutorial for web scraping / crawling with Node.js.",
   "main": "index.js",
@@ -10,7 +10,8 @@
     "scrape-github-trending": "index.js"
   },
   "scripts": {
-    "test": "standard"
+    "test": "standard",
+    "deploy": "git add . && git commit -m Build && git push"
   },
   "engines": {
     "node": ">=8"
